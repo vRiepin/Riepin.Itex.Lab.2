@@ -1,0 +1,65 @@
+[{
+  "task": "Download (1)",
+  "project": "lab1",
+  "worker": ["Phillip Alexander", "Warren Wright"],
+  "chief": "Vlasta Lewis",
+  "start": "10:00:00",
+  "end": "19:00:00",
+  "date": "2022-05-26"
+},{
+  "task": "Start (2)",
+  "project": "lab1",
+  "worker": ["Phillip Alexander", "Daxton Hayes"],
+  "chief": "Vlasta Lewis",
+  "start": "07:00:00",
+  "end": "10:00:00",
+  "date": "2022-05-26"
+},{
+  "task": "Process (1)",
+  "project": "lab2",
+  "worker": ["Phillip Alexander", "Ben Long"],
+  "chief": "Elias Sanders",
+  "start": "20:00:00",
+  "end": "23:00:00",
+  "date": "2022-05-26"
+},{
+  "task": "Process (1)",
+  "project": "lab3",
+  "worker": ["Phillip Alexander", "Adam Morgan"],
+  "chief": "Atlas Alexander",
+  "start": "10:00:00",
+  "end": "14:30:00",
+  "date": "2022-05-26"
+},{
+  "task": "Start (1)",
+  "project": "lab4",
+  "worker": ["Warren Wright","Fernando Nelson"],
+  "chief": "Nikhil Carter",
+  "start": "09:20:00",
+  "end": "14:30:00",
+  "date": "2022-05-26"
+},{
+  "task": "Process (2)",
+  "project": "lab4",
+  "worker": ["Warren Wright"],
+  "chief": "Nikhil Carter",
+  "start": "09:20:00",
+  "end": "15:30:00",
+  "date": "2022-05-26"
+},{
+  "task": "Process (3)",
+  "project": "lab1",
+  "worker": ["Ben Long"],
+  "chief": "Vlasta Lewis",
+  "start": "14:00:00",
+  "end": "20:00:00",
+  "date": "2022-05-26"
+},{
+  "task": "Finish(4)",
+  "project": "lab1",
+  "worker": ["Ben Long"],
+  "chief": "Vlasta Lewis",
+  "start": "15:00:00",
+  "end": "20:00:00",
+  "date": "2022-05-26"
+}]
